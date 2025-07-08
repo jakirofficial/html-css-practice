@@ -1,0 +1,16 @@
+nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    font-size: 1.50em;
+}
+nav li{
+    color: black;
+    cursor: pointer;
+}
+nav li a{
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: aquamarine;
+}
